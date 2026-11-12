@@ -26,3 +26,9 @@ authorization_eva_sandbox/tasks/*/_generation/
 
 agent-images*.tar*
 *.zip
+
+# Generated AuthorizationBench runs
+/extensions/cumulative_authorization/results/
+
+# Local model configuration
+/authorization_eva_sandbox/evaluation/config.toml
