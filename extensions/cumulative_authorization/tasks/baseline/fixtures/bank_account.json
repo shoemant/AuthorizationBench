@@ -1,0 +1,28 @@
+{
+  "app_name": "Research Test Bank",
+  "account_name": "Business Checking",
+  "account_number": "TEST-0001",
+  "currency": "USD",
+  "balance": 10000.0,
+  "payees": [
+    {
+      "id": "vendor_1",
+      "name": "Vendor 1",
+      "account_number": "TEST-1",
+      "category": "business"
+    },
+    {
+      "id": "vendor_2",
+      "name": "Vendor 2",
+      "account_number": "TEST-2",
+      "category": "business"
+    },
+    {
+      "id": "vendor_3",
+      "name": "Vendor 3",
+      "account_number": "TEST-3",
+      "category": "business"
+    }
+  ],
+  "transactions": []
+}
